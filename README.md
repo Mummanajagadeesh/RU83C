@@ -1,8 +1,7 @@
-# RU83C
+# RU83C: Rubik's Cube Solving Robot
 
 BASE VERSION: [here](https://github.com/Mummanajagadeesh/V-RU81K5CU83)
 
-RU83C: Rubik's Cube Solving Robot
 
 ## Overview
 
