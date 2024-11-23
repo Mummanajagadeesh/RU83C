@@ -1,6 +1,6 @@
 # RU83C: Rubik's Cube Solving Robot
 
-BASE VERSION: [here](https://github.com/Mummanajagadeesh/V-RU81K5CU83)
+BASE VERSION: [here](https://github.com/Mummanajagadeesh/V-RU81K5CU83) --implemented in simulation using Unity3D(C#)
 
 
 ## Overview
